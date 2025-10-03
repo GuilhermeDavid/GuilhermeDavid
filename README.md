@@ -5,6 +5,7 @@
 ### 🚀 About Me  
 I’m passionate about technology, always learning and working on projects with modern tools.  
 Currently, I work mainly with **Java, Python, Spring, and Flutter**, building APIs, mobile apps, and robust systems.  
+📚 I’m currently pursuing a **postgraduate degree in Artificial Intelligence**, enhancing my knowledge in advanced AI concepts and applications. 
 
 ---
 
